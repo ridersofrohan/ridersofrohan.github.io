@@ -1,0 +1,6 @@
+# Site Settings
+name: Rohan Challa
+title: Rohan Challa
+
+sass:
+  sass_dir: _sass

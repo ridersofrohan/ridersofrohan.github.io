@@ -1,0 +1,15 @@
+<div class="container-fluid career-container">
+  {% for job in site.data.career %}
+    <div class="row career">
+      <div class="col-md-2 col-xs-12 image">
+        <img src="{{job.icon}}"/>
+      </div>
+      <div class="col-md-10 col-xs-12 info">
+        <a class="company" href="{{job.link}}">
+          <h5> {{job.company}} </h5>
+        </a>
+        <p> {{job.position}} ({{job.year}}) </p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

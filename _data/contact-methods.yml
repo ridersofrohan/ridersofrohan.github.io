@@ -1,0 +1,11 @@
+- link: https://www.linkedin.com/in/rohanchalla/
+  icon: /images/linkedin.png
+  method: linkedin
+
+- link: mailto:rchalla769@gmail.com
+  icon: /images/email.png
+  method: email
+
+- link: https://github.com/ridersofrohan
+  icon: /images/github.png
+  method: github

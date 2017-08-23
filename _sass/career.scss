@@ -1,0 +1,42 @@
+.career-container {
+  .career {
+    padding-top: 1em;
+    text-align: center;
+
+    .image {
+      text-align: center;
+      margin-bottom: 10px;
+
+      img {
+        width: 50px;
+        height: auto;
+      }
+    }
+
+    .info {
+      text-align: center;
+
+      .company {
+        color: inherit;
+      }
+      .company:hover {
+        color: $background-color;
+        text-decoration: none;
+      }
+
+      p {
+        font-size: 0.9rem;
+      }
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  .career-container {
+    .career {
+      .info {
+        text-align: left;
+      }
+    }
+  }
+}

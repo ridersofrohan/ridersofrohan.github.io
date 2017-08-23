@@ -1,0 +1,17 @@
+.contact-button {
+	color: transparent;
+	margin: 5px;
+
+	img {
+		color: transparent;
+		width: 30px;
+		height: auto;
+	}
+}
+.contact-button:hover {
+	text-decoration: none;
+	img {
+		padding-bottom: 2px;
+		border-bottom: solid 2px $border-color;
+	}
+}
