@@ -1,5 +1,5 @@
-.career-container {
-  .career {
+.list-with-picture-container {
+  .list-item {
     padding-top: 1em;
     text-align: center;
 
@@ -8,18 +8,18 @@
       margin-bottom: 10px;
 
       img {
-        width: 50px;
-        height: auto;
+        height: 50px;
+        width: auto;
       }
     }
 
     .info {
       text-align: center;
 
-      .company {
+      .title {
         color: inherit;
       }
-      .company:hover {
+      .title:hover {
         color: $background-color;
         text-decoration: none;
       }
@@ -32,8 +32,8 @@
 }
 
 @media (min-width: 768px) {
-  .career-container {
-    .career {
+  .list-with-picture-container {
+    .list-item {
       .info {
         text-align: left;
       }

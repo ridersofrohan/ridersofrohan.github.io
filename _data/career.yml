@@ -1,17 +1,19 @@
-- company: Neighborly
+- title: Neighborly
+  subtitle: Software Engineering Intern (2017)
   link: https://neighborly.com/
   icon: /images/neighborly.png
-  position: Software Engineering Intern
-  year: 2017
 
-- company: Tech Garage
+- title: Political Science Department
+  subtitle: Research Assistant (2016)
+  link: https://politicalscience.stanford.edu/
+  icon: /images/stanford.png
+
+- title: Tech Garage
+  subtitle: Camp Counselor (2015)
   link: http://www.tech-garage.org/
   icon: /images/tech-garage.png
-  position: Camp Counselor
-  year: 2016
 
-- company: Max Planck Florida Institute
+- title: Max Planck Florida Institute
+  subtitle: Engineering Intern (2014)
   link: https://www.maxplanckflorida.org/
   icon: /images/max-planck.png
-  position: Engineering Intern
-  year: 2014
