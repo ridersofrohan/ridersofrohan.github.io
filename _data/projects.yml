@@ -1,6 +1,11 @@
+- title: Trump Tracker
+  subtitle: Immigration policy changes of the Trump Administration.
+  link: https://trumptracker-f6d14.firebaseapp.com/
+  icon: /images/trumptracker.png
+
 - title: wefm
   subtitle: Listen to music together, again.
-  link: https://wefm.us/
+  link: http://rohanchalla.com/wefm/
   icon: /images/wefm.png
 
 - title: Stanford MCF
