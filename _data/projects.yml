@@ -1,4 +1,9 @@
-- title: Trump Tracker
+- title: Butterfly Music
+  subtitle: Building a music history.
+  link: https://www.butterflymusic.co/
+  icon: /images/butterfly.png
+
+- title: Trump Tracker Immdex
   subtitle: Immigration policy changes of the Trump Administration.
   link: https://trumptracker-f6d14.firebaseapp.com/
   icon: /images/trumptracker.png
@@ -7,11 +12,6 @@
   subtitle: Listen to music together, again.
   link: http://rohanchalla.com/wefm/
   icon: /images/wefm.png
-
-- title: Stanford MCF
-  subtitle: Designed and created the website.
-  link: https://stanfordmcf.github.io/
-  icon: /images/stanford-mcf.png
 
 - title: MarcoPolo
   subtitle: Make campuses smaller.
