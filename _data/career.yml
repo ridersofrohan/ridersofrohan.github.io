@@ -1,6 +1,11 @@
+- title: Google
+  subtitle: Engineering Resident (2018)
+  link: https://www.google.com/
+  icon: /images/google.png
+
 - title: ClimateAI
   subtitle: Software Engineering Intern (2018)
-  link: http://climate.ai/
+  link: https://www.climate.ai/
   icon: /images/climateai.png
 
 - title: Neighborly
