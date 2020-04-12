@@ -4,9 +4,9 @@ layout: default
 
 ### About
 
-Majoring in Computer Science from Stanford University (2019)
+Engineering at we:fm and Google (2020)
 
-I enjoy making things, being active, and watching movies.
+I enjoy being active, making things, and watching movies.
 
 
 ### Projects
