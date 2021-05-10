@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
 :root {
-  --body-bg-color: #28CC9E; /* #28CC9E */
+  --body-bg-color: #6930c3; /* #815ac0 */
   --container-bg-color: #FFF; /* #FFF */
 }
 
@@ -38,10 +38,17 @@ h1 {
   margin-bottom: 1rem;
 }
 
+.links-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
 .contact-link {
   color: inherit;
-  font-size: 1rem;
-  margin: 0.5rem;
+  font-size: 1.25rem;
+  margin: 0 0.5rem;
+  padding: 0 0.5rem;
   text-decoration: underline;
 }
 
@@ -90,6 +97,7 @@ li {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  text-align: center;
 
   width: 100%;
   box-sizing: border-box;
@@ -111,8 +119,8 @@ li {
 }
 
 .indicator {
-  margin-top: -30px;
-  margin-left: 30px;
+  margin-top: -45px;
+  margin-left: 45px;
   height: 10px;
   font-size: 2.5rem;
   text-decoration: none;
@@ -141,11 +149,6 @@ li {
     font-size: 2.5rem;
   }
 
-  .contact-link {
-    font-size: 1.25rem;
-    margin-left: 1.5rem;
-  }
-
   .desc-with-img {
     flex-direction: row;
     justify-content: flex-start;
@@ -153,6 +156,7 @@ li {
 
   .content-container {
     margin-left: 1.5rem;
+    text-align: left;
   }
 
   .indicator {
