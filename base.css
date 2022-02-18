@@ -131,6 +131,10 @@ li {
   color: #79d70f;
 }
 
+.inactive {
+  color: #FFBF00;
+}
+
 .dead {
   color: #d54062;
 }
